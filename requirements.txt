@@ -1,0 +1,1 @@
+This file contains the list of basic pre requisites that are deemed necessary for understanding the scope of this project
